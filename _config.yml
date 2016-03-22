@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/black-favicon.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -113,12 +113,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/spidertocat.jpg"
+    date: "May 2015 - Today"
+    description: "Masters of Science in Computer Science at Indiana University"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "August 2011 - May 2015"
+    description: "Bachelors of Engineering in Information Technology at University of Mumbai"
 
 # First image of the Timeline
 
