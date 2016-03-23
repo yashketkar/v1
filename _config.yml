@@ -2,28 +2,15 @@
 markdown: kramdown
 
 # Site settings
-
-# NB! Set your site's url, otherwise stuff will break :)
-
 url: "https://yashketkar.github.io"
+baseurl: ""
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
-baseurl: "" # the subpath of your site, e.g. /blog
-
-# Google tracking id to track your visitors
-
+# Google tracking id to track visitors
 google-tracking-id: "UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
-
 force-https: True
 
 #############
@@ -42,7 +29,6 @@ favicon: "/img/favicon.ico"
 ################
 
 black-favicon: "/img/black-favicon.ico"
-
 background-img: "../img/intro-bg.jpg"
 
 ##############################
@@ -74,7 +60,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -121,7 +107,6 @@ events:
     description: "Bachelors of Engineering in Information Technology at University of Mumbai"
 
 # First image of the Timeline
-
 timeline-img: "/img/timeline/me_kid.png"
 
 ###########
@@ -165,9 +150,7 @@ social:
 404-img: "/img/labtocat.png"
 
 ################################################################################
-
 # NB! Tread carefully if you want to change the variables below this point!
-
 # Sections shown in the index page
 
 pages_list:
@@ -181,11 +164,9 @@ pages_list:
 exclude: ["LICENSE", "README.md", "scripts"]
 
 # Pagination path
-
 paginate_path: "blog/page:num/"
 
 # Enable minification SASS
-
 sass:
   style: compressed
 
