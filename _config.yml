@@ -6,7 +6,7 @@ url: "https://yashketkar.github.io"
 baseurl: ""
 
 # Google tracking id to track visitors
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-75495429-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -43,10 +43,10 @@ type-speed: 5
 start-delay: 100
 delete-delay: 1000
 lines: # You can add HTML Tags in the Text
-  - text: "Web Developer"
-  - text: "Mobile Developer"
-  - text: "UX Designer"
-  - text: "Blog Author"
+  - text: "Blogger"
+  - text: "Web App Developer"
+  - text: "Mobile App Developer"
+  - text: "UI/UX Designer"
 
 me-img: "/img/me.jpg"
 
@@ -102,6 +102,12 @@ events:
   - image: "/img/timeline/iu.jpg"
     date: "May 2015 - Today"
     description: "Masters of Science in Computer Science at Indiana University"
+  - image: "/img/timeline/play.png"
+    date: "June 14th, 2014"
+    description: "Launched 1st Android application on Google Play, now with 10k+ installs, 300+ reviews and 4.2 <i class=\"fa fa-star\"></i> rating"
+  - image: "/img/timeline/techshala.png"
+    date: "June 20th, 2013"
+    description: "Co-founded TechShala.in a technology news and reviews website and blog"
   - image: "/img/timeline/mu.jpg"
     date: "August 2011 - May 2015"
     description: "Bachelors of Engineering in Information Technology at University of Mumbai"
