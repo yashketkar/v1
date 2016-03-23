@@ -2,7 +2,7 @@
 
 require 'date'
 
-POSTS_DIR = '_posts/'
+POSTS_DIR = File.expand_path("..", Dir.pwd) + '/_posts/'
 
 post = ARGV[0]
 

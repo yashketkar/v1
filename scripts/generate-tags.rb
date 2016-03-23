@@ -2,8 +2,8 @@
 
 require 'yaml'
 
-POSTS_DIR = '_posts/'
-TAGS_DIR = 'tags/'
+POSTS_DIR = File.expand_path("..", Dir.pwd) + '/_posts/'
+TAGS_DIR = File.expand_path("..", Dir.pwd) + '/tags/'
 
 Dir.foreach(POSTS_DIR) do |post|
 
