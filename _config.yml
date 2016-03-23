@@ -34,7 +34,7 @@ lang: "en"
 author: "Yash Ketkar"
 title: "Yash Ketkar"
 description: "Blog and website of Yash Ketkar, which includes information about my background, education and experience, blogging mainly for tech. Opinions expressed are mine."
-keywords: "ketkar, yash, personal, jekyll, theme"
+keywords: "ketkar, yash, website, blog, developer"
 favicon: "/img/favicon.ico"
 
 ################
@@ -99,12 +99,12 @@ twitter-share: True
 linkedin-share: True
 reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "yashketkar"
 
 syntax-highlight: True
 
@@ -113,16 +113,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.jpg"
+  - image: "/img/timeline/iu.jpg"
     date: "May 2015 - Today"
     description: "Masters of Science in Computer Science at Indiana University"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/mu.jpg"
     date: "August 2011 - May 2015"
     description: "Bachelors of Engineering in Information Technology at University of Mumbai"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/me_kid.png"
 
 ###########
 # Contact #
@@ -135,16 +135,26 @@ email: "yketkar@indiana.edu"
 ##################
 
 social:
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/yashketkar"
   - title: "github"
     url: "https://github.com/yashketkar"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/yashketkar"
+  - title: "stack-overflow"
+    url: "http://stackoverflow.com/users/5896782/yashketkar"
+  - title: "angellist"
+    url: "https://angel.co/yashketkar"
   - title: "facebook"
     url: "https://facebook.com/yashketkar93"
   - title: "twitter"
     url: "https://twitter.com/yashketkar"
   - title: "instagram"
     url: "https://www.instagram.com/yashketkar/"
+  - title: "skype"
+    url: "skype:yashketkar?call"
+  - title: "vimeo"
+    url: "https://vimeo.com/yashketkar"
+  - title: "paypal"
+    url: "https://www.paypal.me/yashketkar"
   - title: "rss"
     url: "/feed.xml"
 
