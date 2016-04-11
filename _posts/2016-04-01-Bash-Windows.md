@@ -3,8 +3,7 @@ published: false
 layout: post
 "section-type": post
 category: tech
-tags:
-  - windows
+tags: [ 'windows' ]
 ---
 
 ## Bash is coming to Windows
