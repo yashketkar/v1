@@ -99,6 +99,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/telenotes.png"
+    date: "May 2016 - August 2016"
+    description: "Software Engineer Intern at Telenotes Inc"
   - image: "/img/timeline/iu.jpg"
     date: "May 2015 - Today"
     description: "Masters of Science in Computer Science at Indiana University"
