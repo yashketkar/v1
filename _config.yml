@@ -48,7 +48,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Mobile App Developer"
   - text: "UI/UX Designer"
 
-me-img: "/img/me.jpg"
+me-img: "/img/me.png"
 
 ##############################
 # Color the browser elements #
@@ -99,13 +99,16 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/kelley.jpg"
+    date: "August 2016 - Present"
+    description: "Web Developer at Kelley School of Business (Office of Marketing)"
   - image: "/img/timeline/telenotes.png"
     date: "May 2016 - August 2016"
     description: "Software Engineer Intern at Telenotes Inc"
   - image: "/img/timeline/iu.jpg"
     date: "May 2015 - Today"
     description: "Masters of Science in Computer Science at Indiana University"
-  - image: "/img/timeline/play.png"
+  - image: "/img/timeline/play.jpg"
     date: "June 14th, 2014"
     description: "Launched 1st Android application on Google Play, now with 10k+ installs, 300+ reviews and 4.2 <i class=\"fa fa-star\"></i> rating"
   - image: "/img/timeline/techshala.png"
@@ -116,7 +119,7 @@ events:
     description: "Bachelors of Engineering in Information Technology at University of Mumbai"
 
 # First image of the Timeline
-timeline-img: "/img/timeline/hodor.png"
+timeline-img: "/img/timeline/hello.png"
 
 ###########
 # Contact #
