@@ -102,7 +102,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/kelley.jpg"
     date: "August 2016 - Present"
-    description: "Software Engineer at Kelley School of Business (Office of Marketing)"
+    description: "Software Developer at Kelley School of Business (Office of Marketing)"
   - image: "/img/timeline/telenotes.png"
     date: "May 2016 - August 2016"
     description: "Software Engineer Intern at Telenotes Inc"
