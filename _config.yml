@@ -47,7 +47,6 @@ lines: # You can add HTML Tags in the Text
   - text: "Software Engineer"
   - text: "Web Developer"
   - text: "Mobile App Developer"
-  - text: "UI/UX Designer"
 
 me-img: "/img/me.png"
 
