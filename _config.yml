@@ -45,7 +45,7 @@ delete-delay: 1000
 lines: # You can add HTML Tags in the Text
   - text: "Software Engineer"
   - text: "Mobile Application Developer"
-  - text: "AI Enthusiast"
+  - text: "Artificial Intelligence Enthusiast"
   - text: "Problem Solver"
 
 me-img: "/img/me.png"
