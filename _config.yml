@@ -43,10 +43,10 @@ type-speed: 5
 start-delay: 100
 delete-delay: 1000
 lines: # You can add HTML Tags in the Text
-  - text: "Blogger"
   - text: "Software Engineer"
-  - text: "Web Developer"
-  - text: "Mobile App Developer"
+  - text: "Mobile Application Developer"
+  - text: "AI Enthusiast"
+  - text: "Problem Solver"
 
 me-img: "/img/me.png"
 
@@ -110,7 +110,7 @@ events:
     description: "Masters of Science in Computer Science at Indiana University"
   - image: "/img/timeline/play.jpg"
     date: "June 14th, 2014"
-    description: "Launched 1st Android application on Google Play, now with 10k+ installs, 300+ reviews and 4.2 <i class=\"fa fa-star\"></i> rating"
+    description: "Launched an Android application on Google Play, now with 10k+ installs, 300+ reviews and 4.2 <i class=\"fa fa-star\"></i> rating"
   - image: "/img/timeline/techshala.png"
     date: "June 20th, 2013"
     description: "Co-founded TechShala.in a technology news and reviews website and blog"
