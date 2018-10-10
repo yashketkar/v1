@@ -3,7 +3,7 @@ markdown: kramdown
 
 # Site settings
 url: "https://yashketkar.github.io"
-baseurl: ""
+baseurl: "/v1"
 
 # Google tracking id to track visitors
 google-tracking-id: "UA-75495429-1"
